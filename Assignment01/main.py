@@ -2,7 +2,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import random
 
-I = Image.open("C:\\Users\\Ruzy\\Downloads\\Image_and_ImageData\\I.png")
+I = Image.open("C:\\Users\\Timmy\\Downloads\\image\\training\\I.png")
 K1 = Image.open("C:\\Users\\Ruzy\\Downloads\\Image_and_ImageData\\key1.png")
 K2 = Image.open("C:\\Users\\Ruzy\\Downloads\\Image_and_ImageData\\key2.png")
 E = Image.open("C:\\Users\\Ruzy\\Downloads\\Image_and_ImageData\\E.png")
