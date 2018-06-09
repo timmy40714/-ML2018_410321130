@@ -44,27 +44,27 @@ Image Decryption by a Single-Layer Neural Network
   </tr>
   <tr>
     <td>1e-5</td>
-    <td><img src="images/init=0/Figure_1.png" alt="Smiley face" height="240" width="360"></td>
-    <td><img src="images/init=1e3/Figure_1.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-0/Figure_1.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-1e3/Figure_1.png" alt="Smiley face" height="240" width="360"></td>
   </tr>
   <tr>
     <td>1e-6</td>
-    <td><img src="images/init=0/Figure_1-1.png" alt="Smiley face" height="240" width="360"></td>
-    <td><img src="images/init=1e3/Figure_1-1.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-0/Figure_1-1.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-1e3/Figure_1-1.png" alt="Smiley face" height="240" width="360"></td>
   </tr>
   <tr>
     <td>1e-7</td>
-    <td><img src="images/init=0/Figure_1-2.png" alt="Smiley face" height="240" width="360"></td>
-    <td><img src="images/init=1e3/Figure_1-2.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-0/Figure_1-2.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-1e3/Figure_1-2.png" alt="Smiley face" height="240" width="360"></td>
   </tr>
   <tr>
     <td>1e-8</td>
-    <td><img src="images/init=0/Figure_1-3.png" alt="Smiley face" height="240" width="360"></td>
-    <td><img src="images/init=1e3/Figure_1-3.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-0/Figure_1-3.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-1e3/Figure_1-3.png" alt="Smiley face" height="240" width="360"></td>
   </tr>
   <tr>
     <td>1e-9</td>
-    <td><img src="images/init=0/Figure_1-4.png" alt="Smiley face" height="240" width="360"></td>
+    <td><img src="images/init-0/Figure_1-4.png" alt="Smiley face" height="240" width="360"></td>
     <td>N/A</td>
   </tr>
 </table>
