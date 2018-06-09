@@ -3,10 +3,10 @@ import matplotlib.pyplot as plt
 import random
 
 I = Image.open("C:\\Users\\Timmy\\Downloads\\images\\training\\I.png")
-K1 = Image.open("C:\\Users\\Ruzy\\Downloads\\Image_and_ImageData\\key1.png")
-K2 = Image.open("C:\\Users\\Ruzy\\Downloads\\Image_and_ImageData\\key2.png")
-E = Image.open("C:\\Users\\Ruzy\\Downloads\\Image_and_ImageData\\E.png")
-Eprime = Image.open("C:\\Users\\Ruzy\\Downloads\\Image_and_ImageData\\Eprime.png")
+K1 = Image.open("C:\\Users\\Timmy\\Downloads\\images\\training\\key1.png")
+K2 = Image.open("C:\\Users\\Timmy\\Downloads\\images\\training\\key2.png")
+E = Image.open("C:\\Users\\Timmy\\Downloads\\images\\training\\E.png")
+Eprime = Image.open("C:\\Users\\Timmy\\Downloads\\images\\training\\Eprime.png")
 width = E.size[0]
 height = E.size[1]
 
